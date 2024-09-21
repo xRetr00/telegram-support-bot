@@ -1,5 +1,5 @@
 # bot settings
-bot_token: '8184530658:AAGVKieh3fuhno9B8vzQL_YGcKLsd37xHYQ' # support bot token
+bot_token: '7724567172:AAFLUtO-EYZVWnGz8AfbKOGmH0hnpPxuudo' # support bot token
 staffchat_id: '-4526689167' # eg. -123456789
 owner_id: '6010444106'
 spam_time: 300000 # time (in MS) in which user may send 5 messages
@@ -84,6 +84,12 @@ autoreply:
   - question: 'hello'
     answer: 'Welcome To CoreGram CoreGram is a Telegram marketing tool designed to help you automate member management, messaging, and tracking.'
   - question: 'help'
+    answer: "Welcome To CoreGram CoreGram is a Telegram marketing tool designed to help you automate member management, messaging, and tracking."
+  - question: 'Help'
+    answer: "Welcome To CoreGram CoreGram is a Telegram marketing tool designed to help you automate member management, messaging, and tracking."
+  - question: 'Hello'
+    answer: "Welcome To CoreGram CoreGram is a Telegram marketing tool designed to help you automate member management, messaging, and tracking."
+  - question: 'Hi'
     answer: "Welcome To CoreGram CoreGram is a Telegram marketing tool designed to help you automate member management, messaging, and tracking."
 # categories:
 #  - name: "Category1"
