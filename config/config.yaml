@@ -24,7 +24,7 @@ signal_number: '+12345689' # Your signal number / account
 web_server: false # Enable/disable web server
 web_server_port: 8080 # Port for web server
 
-dev_mode: true # Enable/disable dev mode
+dev_mode: false # Enable/disable dev mode
 
 # customize your language
 language:
@@ -81,8 +81,10 @@ language:
 autoreply:
   - question: 'hi'
     answer: "Welcome To CoreGram CoreGram is a Telegram marketing tool designed to help you automate member management, messaging, and tracking."
-  - question: 'are you sure?'
-    answer: 'Yes.'
+  - question: 'hello'
+    answer: 'Welcome To CoreGram CoreGram is a Telegram marketing tool designed to help you automate member management, messaging, and tracking.'
+  - question: 'help'
+    answer: "Welcome To CoreGram CoreGram is a Telegram marketing tool designed to help you automate member management, messaging, and tracking."
 # categories:
 #  - name: "Category1"
 #    subgroups:
