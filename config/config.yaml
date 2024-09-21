@@ -28,8 +28,8 @@ dev_mode: true # Enable/disable dev mode
 
 # customize your language
 language:
-  startCommandText: 'Welcome in our support chat! Ask your question here.'
-  faqCommandText: 'Get this bot at: [github.com](https://github.com/bostrot/telegram-support-bot)'
+  startCommandText: 'Welcome in CoreGram Support Bot! Ask your question here.'
+  faqCommandText: 'CoreGram: The Ultimate Telegram Marketing Tool'
   helpCommandText: "*Available commands:* /help /faq /id"
   helpCommandStaffText: "*Available commands:*\n
     /start - Get a little introduction \n
@@ -72,18 +72,15 @@ language:
   textFirst: 'Please send us a message before sending an image so that we can help you better.'
   ticketClosedError: 'You cannot reply to a closed ticket.'
   automatedReply: 'This is an automated reply.'
-  automatedReplyAuthor: 'BottyBot.'
+  automatedReplyAuthor: 'CoreGram Bot.'
   doesntHelp: 'This does not help.'
   automatedReplySent: 'Automated reply was send to the user.'
   ticketReopened: 'Ticket reopened.'
-  regardsGroup: 'Botty Group'
+  regardsGroup: 'CoreGram Team'
 
 autoreply:
-  - question: 'install'
-    answer: "If you want to install the bot, you can use the following link: \
-      [Getting Started](https://github.com/bostrot/telegram-support-bot/wiki/Getting-started)  \
-      Alternatively you can also use our one-click setup & hosting service: \
-      [Botspace](https://botspace.bostrot.com/)"
+  - question: 'hi'
+    answer: "Welcome To CoreGram CoreGram is a Telegram marketing tool designed to help you automate member management, messaging, and tracking."
   - question: 'are you sure?'
     answer: 'Yes.'
 # categories:
