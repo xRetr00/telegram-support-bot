@@ -5,7 +5,6 @@
   "license": "GPL-3.0",
   "author": "xRetr0 <CEO@CoreGram.com>",
   "homepage": "https://coregram.crd.co/",
-  },
   "main": "build/src/index.js",
   "scripts": {
     "tsc": "tsc",
