@@ -1,16 +1,10 @@
 {
-  "name": "telegram-support-bot",
+  "name": "coregram-support-bot",
   "version": "4.0.0",
-  "description": "Telegram Support Bot",
+  "description": "CoreGram Support Bot",
   "license": "GPL-3.0",
-  "author": "bostrot <eric@bostrot.com>",
-  "homepage": "https://botspace.bostrot.com",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/bostrot/telegram-support-bot.git"
-  },
-  "bugs": {
-    "url": "https://github.com/bostrot/telegram-support-bot/issues"
+  "author": "xRetr0 <CEO@CoreGram.com>",
+  "homepage": "https://coregram.crd.co/",
   },
   "main": "build/src/index.js",
   "scripts": {
