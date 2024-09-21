@@ -9,7 +9,7 @@ parse_mode: 'Markdown' # Experimental. Do not change unless you know what you ar
 
 allow_private: false # Allow / disallow option for staff to chat privately
 direct_reply: false # Set this to true to just forward staff users to a user chat when allow_private
-auto_close_tickets: true # Close tickets after answering
+auto_close_tickets: false # Close tickets after answering
 anonymous_tickets: true # Include userid in tickets or not
 anonymous_replies: true # Include staff member name in response
 show_auto_replied: false # Send auto replied msgs to staff chat
@@ -28,7 +28,7 @@ dev_mode: false # Enable/disable dev mode
 
 # customize your language
 language:
-  startCommandText: 'Welcome in CoreGram Support Bot! Ask your question here.'
+  startCommandText: 'Welcome in CoreGram Support Bot! Please Explain Your Problem Or Send Error From Logs Or Screenshot For Faster Fixing'
   faqCommandText: 'CoreGram: The Ultimate Telegram Marketing Tool'
   helpCommandText: "*Available commands:* /help /faq /id"
   helpCommandStaffText: "*Available commands:*\n
