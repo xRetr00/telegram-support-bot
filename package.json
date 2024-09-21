@@ -21,7 +21,7 @@
         "test": "env TS_NODE_COMPILER_OPTIONS='{\"module\": \"commonjs\" }' mocha -r ts-node/register 'test/**/*.ts' --exit"
     },
     "engines": {
-        "node": ">=6.2.0"
+        "node": ">=14.0.0 <15.0.0"
     },
     "dependencies": {
         "@grammyjs/transformer-throttler": "^1.2.1",
