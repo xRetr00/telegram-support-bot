@@ -12,7 +12,7 @@
     "prod": "ts-node ./src/index.ts",
     "build": "tsc",
     "test": "env TS_NODE_COMPILER_OPTIONS='{\"module\": \"commonjs\" }' mocha -r ts-node/register 'test/**/*.ts' --exit",
-    "start": "npm run prod"
+    "start": "npm run dev"
   },
   "engines": {
     "node": ">=14.0.0 <15.0.0"
